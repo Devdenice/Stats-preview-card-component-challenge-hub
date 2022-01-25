@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/semantic-html5-markup-css-custom-properties-flex-property-W_UCI1ztY)
 - Live Site URL: [Github](https://devdenice.github.io/Stats-preview-card-component-challenge-hub/)
 
 ## My process
